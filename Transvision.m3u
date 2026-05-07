@@ -55,3 +55,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
 #EXTINF:-1,Kix HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+#EXTINF:-1,HBO Family
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1,HBO Family HD
+http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+#EXTINF:-1,AXN
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:-1,Animax SD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
